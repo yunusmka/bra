@@ -8,7 +8,7 @@
          "gecebird",
          "mutsuz_panda"
       ],   
-   "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/Gecekus/bra",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
