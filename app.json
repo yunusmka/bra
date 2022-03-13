@@ -8,7 +8,7 @@
          "gecebird",
          "mutsuz_panda"
       ],   
-   "repository": "https://github.com/Gecekus/bra",
+   "repository": "https://github.com/yunusmka/bra",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
